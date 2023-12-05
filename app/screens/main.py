@@ -59,9 +59,9 @@ class ScreenMain(LcarsScreen):
                         layer=4)
 
         # gadgets
-        all_sprites.add(LcarsGifImage("assets/gadgets/fwscan.gif", (277, 556), 100), layer=1)
+        #all_sprites.add(LcarsGifImage("assets/gadgets/fwscan.gif", (277, 556), 100), layer=1)
 
-        self.sensor_gadget = LcarsGifImage("assets/gadgets/lcars_anim2.gif", (235, 150), 100)
+        #self.sensor_gadget = LcarsGifImage("assets/gadgets/lcars_anim2.gif", (235, 150), 100)
         self.sensor_gadget.visible = False
         all_sprites.add(self.sensor_gadget, layer=2)
 
