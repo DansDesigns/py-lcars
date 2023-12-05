@@ -89,6 +89,8 @@ class ScreenMain(LcarsScreen):
 
         if event.type == pygame.MOUSEBUTTONUP:
             return False
+            
+        mouse_position = pygame.mouse.get_pos()
 
     def hideInfoText(self):
         if self.info_text[0].visible:
