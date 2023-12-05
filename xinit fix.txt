@@ -1,0 +1,8 @@
+to fix the xinit issue:
+
+sudo nano /etc/X11/Xwrapper.config
+add:
+needs_root_rights = yes
+
+CTRL + O = save
+CTRL + X = close
