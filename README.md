@@ -1,4 +1,4 @@
-# RaspberryPi LCARS Interface
+# {MODDIFIED FOR ANY HARDWARE} RaspberryPi LCARS Interface
 
 Star Trek [LCARS](https://en.wikipedia.org/wiki/LCARS) interface for [Raspberry Pi](https://raspberrypi.org/) using [Pygame](http://www.pygame.org). 
 
