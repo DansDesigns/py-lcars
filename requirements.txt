@@ -1,4 +1,4 @@
-pygame>=1.9.1
+pygame==1.9.1
 pillow
 psutil
 
